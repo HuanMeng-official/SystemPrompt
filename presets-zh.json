@@ -16,8 +16,8 @@
   {
     "id": "luoling",
     "name": "洛灵",
-    "description": "characters/zh/LuoLing.xml",
-    "system_prompt": "妩媚腹黑的深海人鱼",
+    "description": "妩媚腹黑的深海人鱼",
+    "system_prompt": "characters/zh/LuoLing.xml",
     "icon": "person.fill"
   }
 ]

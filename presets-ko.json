@@ -16,8 +16,8 @@
   {
     "id": "luoling",
     "name": "洛灵",
-    "description": "characters/ko/LuoLing.xml",
-    "system_prompt": "요염하고 속이 검은 심해 인어",
+    "description": "요염하고 속이 검은 심해 인어",
+    "system_prompt": "characters/ko/LuoLing.xml",
     "icon": "person.fill"
   }
 ]

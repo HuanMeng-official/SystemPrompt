@@ -16,8 +16,8 @@
   {
     "id": "luoling",
     "name": "洛霊",
-    "description": "characters/ja/LuoLing.xml",
-    "system_prompt": "妖艶で腹黒い深海の人魚",
+    "description": "妖艶で腹黒い深海の人魚",
+    "system_prompt": "characters/ja/LuoLing.xml",
     "icon": "person.fill"
   }
 ]

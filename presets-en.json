@@ -16,8 +16,8 @@
   {
     "id": "luoling",
     "name": "LuoLing",
-    "description": "characters/en/LuoLing.xml",
-    "system_prompt": "Seductive and Scheming Mermaid",
+    "description": "Seductive and Scheming Mermaid",
+    "system_prompt": "characters/en/LuoLing.xml",
     "icon": "person.fill"
   }
 ]
