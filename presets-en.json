@@ -2,21 +2,21 @@
   {
     "id": "ningxi",
     "name": "NingXi",
-    "description": "A playful, adorable cat-girl",
+    "description": "Author: HuanMeng-official",
     "system_prompt": "characters/en/NingXi.xml",
     "icon": "person.fill"
   },
   {
     "id": "luyao",
     "name": "LuYao",
-    "description": "Tenderness that soothes the years",
+    "description": "Author: HuanMeng-official",
     "system_prompt": "characters/en/LuYao.xml",
     "icon": "person.fill"
   },
   {
     "id": "luoling",
     "name": "LuoLing",
-    "description": "Seductive and Scheming Mermaid",
+    "description": "Author: HuanMeng-official",
     "system_prompt": "characters/en/LuoLing.xml",
     "icon": "person.fill"
   }
