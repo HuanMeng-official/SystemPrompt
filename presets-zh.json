@@ -20,4 +20,11 @@
     "system_prompt": "characters/zh/LuoLing.xml",
     "icon": "person.fill"
   }
+  {
+    "id": "yujin",
+    "name": "余烬",
+    "description": "作者：浅唱official",
+    "system_prompt": "characters/zh/YuJin.xml",
+    "icon": "person.fill"
+  }
 ]
