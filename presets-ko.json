@@ -15,9 +15,16 @@
   },
   {
     "id": "luoling",
-    "name": "洛灵",
+    "name": "락령",
     "description": "저자: HuanMeng-official",
     "system_prompt": "characters/ko/LuoLing.xml",
+    "icon": "person.fill"
+  }
+  {
+    "id": "yujin",
+    "name": "여진",
+    "description": "저자: QianChang-official",
+    "system_prompt": "characters/ko/Yujin.xml",
     "icon": "person.fill"
   }
 ]
