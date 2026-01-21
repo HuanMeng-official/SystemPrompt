@@ -20,4 +20,11 @@
     "system_prompt": "characters/en/LuoLing.xml",
     "icon": "person.fill"
   }
+  {
+    "id": "YuJin",
+    "name": "YuJin",
+    "description": "Author: Qianchang_official",
+    "system_prompt": "characters/en/YuJin.xml",
+    "icon": "person.fill"
+  }
 ]
