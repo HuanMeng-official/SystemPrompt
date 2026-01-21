@@ -20,4 +20,11 @@
     "system_prompt": "characters/ja/LuoLing.xml",
     "icon": "person.fill"
   }
+  {
+    "id": "YuJing",
+    "name": "余燼",
+    "description": "著者：浅唱official",
+    "system_prompt": "characters/ja/YuJing.xml",
+    "icon": "person.fill"
+  }
 ]
